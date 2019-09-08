@@ -10,6 +10,6 @@ setup(name='galov-walker',
 
       author='Antonio Galov',
 
-      install_requires=['gym', 'numpy', 'Box2D','evostra']
+      install_requires=['gym']
 
 )
